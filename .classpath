@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="build/.apt_generated"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/home/ivan/soft/adt/sdk/platforms/android-10/android.jar"/>
 	<classpathentry kind="lib" path="/home/ivan/soft/adt/sdk/add-ons/addon-google_apis-google-10/libs/maps.jar"/>
-	<classpathentry kind="lib" path="/home/ivan/.titanium/mobilesdk/linux/3.2.2.GA/android/titanium.jar"/>
-	<classpathentry kind="lib" path="/home/ivan/.titanium/mobilesdk/linux/3.2.2.GA/android/kroll-common.jar"/>
-	<classpathentry kind="lib" path="/home/ivan/.titanium/mobilesdk/linux/3.2.2.GA/android/kroll-apt.jar"/>
-	<classpathentry kind="src" path=".apt_generated">
-		<attributes>
-			<attribute name="optional" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/mta-sdk-1.6.2.jar"/>
 	<classpathentry kind="lib" path="lib/open_sdk.jar"/>
+	<classpathentry kind="lib" path="/home/ivan/.titanium/mobilesdk/linux/3.2.2.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="/home/ivan/.titanium/mobilesdk/linux/3.2.2.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="/home/ivan/.titanium/mobilesdk/linux/3.2.2.GA/android/titanium.jar"/>
+	<classpathentry kind="lib" path="lib/mta-sdk-1.6.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

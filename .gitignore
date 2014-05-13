@@ -1,5 +1,8 @@
-**/bin/*
-**/gen/*
+.classpath
 *.class
 *.*~
+**/bin/*
+**/build/*
+**/libs/*
+**/dist/*
 
